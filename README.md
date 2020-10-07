@@ -1,2 +1,2 @@
-# AI-Tutor-Pt.-1
+# AI-Tutor
 Answer Correctness Prediction Kaggle Challenge
